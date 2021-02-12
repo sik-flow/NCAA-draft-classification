@@ -26,7 +26,7 @@ From the beginning of the century 'til 2018 over 30,000 people played in the NCA
 
 Breaking this down by position we see a discrepancy in the pool of players position. In the past 18 years less than 10% of the total College players were Centers. The label Center is traditionally given to the tallest players on the team and they usually play close to the basket in the low post.
 
-![#ofplayersdraftedbyposition.png](/Images/#ofplayersdraftedbyposition.png)
+![#ofplayersdraftedbyposition.png](/Images/playersdraftedbyposition.png)
 
 When we mention a true center, as an NBA fan, we think of players like Bill Russel, Shaquille O'Neal, Hakeem Olajuwon. These Hall of famers dominated the low post giving their team high percentage shots and grabbed every rebound due to them towering over the other players. On the other hand, they were infamous for their lack of shooting abilities and in that era this was okay because teams preferred closer shots. Nowadays because of analytics players are given a green light to shoot as many 3s as they like, simply put it the 3 is a more efficient shot than a mid-ranged 2.
 
@@ -34,7 +34,7 @@ When we mention a true center, as an NBA fan, we think of players like Bill Russ
 
 Since 2012, the NBA average for three point attempts and makes has increased year over year to record breaking numbers. As the league catches on to the trend of shooting  further from the basket we begin to see Centers being drafted less and less
 
-![#playersdraftedbyposition_yearly.png](/Images/#playersdraftedbyposition_yearly.png)
+![#playersdraftedbyposition_yearly.png](/Images/playersdraftedbyposition_yearly.png)
 
 A great way to understand the projection of the NBA is to study the players entering it. Although general managers may sometimes draft players simply based on potential or their own bias and not just statistics we won't ever be able to predict the outcome of a draft with 100% certainty but more than likely we can come to a percentage of accuracy that we are comfortable with.
 
