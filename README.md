@@ -87,9 +87,9 @@ FN : 86 Incorrectly predicted as Undrafted
 
 ![svm_cf_test.png](/Images/svm_cf_test.png)
 
-TP : 207 Correctly predicted as Drafted
-TN : 193 Correctly predicted as Undrafted
-FP : 43 Incorrectly predicted as Drafted
+TP : 207 Correctly predicted as Drafted\
+TN : 193 Correctly predicted as Undrafted\
+FP : 43 Incorrectly predicted as Drafted\
 FN : 60 Incorrectly predicted as Undrafted
 
 
