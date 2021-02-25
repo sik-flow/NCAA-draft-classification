@@ -22,7 +22,7 @@ The objective of this classification project is to get an insight of how the NBA
 
 From the beginning of the century 'til 2018 over 30,000 people played in the NCAA and only a small percentage are able to make it to the NBA.
 
-![DraftedVunDrafted](https://i.imgur.com/XovJv9D.png)
+![DraftedVunDrafted](Images/draftedvundrafted.png.png)
 
 Breaking this down by position we see a discrepancy in the pool of players position. In the past 18 years less than 10% of the total College players were Centers. The label Center is traditionally given to the tallest players on the team and they usually play close to the basket in the low post.
 
