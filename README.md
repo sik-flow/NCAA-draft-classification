@@ -66,18 +66,6 @@ FN : 53 Incorrectly predicted as Undrafted
 - Decision Tree
 - Support Vector Machine
 
-## Decision Tree
-
-### Accuracy :  ~73%
-
-### Confusion Matrix :
-
-![DecisionTree_cf_test.png](/Images/DecisionTree_cf_test.png)
-
-TP : 204 Correctly predicted as Drafted\
-TN : 167 Correctly predicted as Undrafted\
-FP : 46 Incorrectly predicted as Drafted\
-FN : 86 Incorrectly predicted as Undrafted
 
 ## Support Vector Machine
 
